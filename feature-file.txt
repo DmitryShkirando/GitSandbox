@@ -1,1 +1,3 @@
 feature text file
+it is changed 11
+and 12 line and commit
